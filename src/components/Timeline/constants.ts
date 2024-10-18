@@ -33,14 +33,6 @@ const day1: Day = {
       event: "team building event",
     },
     {
-      time: "12:00 PM",
-      event: "hacker hangout",
-    },
-    {
-      time: "3:30 PM",
-      event: "mlh mini event",
-    },
-    {
       time: "5:00 PM",
       event: "workshop",
     },
